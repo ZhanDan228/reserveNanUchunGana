@@ -14,7 +14,7 @@
 								</div> -->
 								<div class='video-con-animate page-video-1'>
 								</div>
-								<div class='video-img-thumbnail' style="background: url('/img/carousel1.webp') no-repeat center; background-size: cover;">
+								<div class='video-img-thumbnail' style="background: url('/img/healthFoodCarousel.jpg') no-repeat center; background-size: cover;">
 								<!-- <div class="video-img-overlay">
 								</div> -->
 								</div>
@@ -24,8 +24,11 @@
 							<div class="video-tx1-description darkmode-txt scale-content-txt-4">
 								<div class='video-emp-block'>
 								</div>
-								<h2>Экологичное решение</h2>
-								<h3>Переработка выброшенной еды снижает объем пищевых отходов и уменьшает экологическое воздействие на окружающую среду.</h3>
+								<h2>Низкая стоимость корма</h2>
+								<h3>Покупая до 100кг стоимость корма 30сом
+									<br>Покупая от 100кг до 1т стоимость 25сом
+									<br>Покупая от 1т стоимость 20сом
+								</h3>
 							</div>
 						</div>
 					</div>
@@ -43,7 +46,7 @@
 								</div> -->
 								<div class='video-con-animate page-video-1'>
 								</div>
-								<div class='video-img-thumbnail' style="background: url('/img/carousel2.jpg') no-repeat center; background-size: cover;">
+								<div class='video-img-thumbnail' style="background: url('/img/healthFoodCarouselTwo.jpg') no-repeat center; background-size: cover;">
 								<!-- <div class="video-img-overlay">
 								</div> -->
 								</div>
@@ -53,28 +56,28 @@
 							<div class="video-tx1-description darkmode-txt scale-content-txt-5">
 								<div class='video-emp-block'>
 								</div>
-								<h2>Сохранение ресурсов</h2>
-								<h3>Использование выброшенной еды в корме помогает сохранять природные ресурсы, так как не требуется производство новых ингредиентов.</h3>
+								<h2>Здоровое питание</h2>
+								<h3>Наш корм сделан из хлеба, что делает наш корм идеальным и сбалонсированным питанием для домашних животных</h3>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<!-- Carousel Slide -->
-			<div class="item">
+			<!-- <div class="item">
 				<div class="fill">
 					<div class="video-con-container">
 					<div class='video-con-left'>
 							<div class='video-con-wrapper'>
-								<!-- <div class="video-btn-play">
-								</div> -->
-								<!-- <div class="video-ico-service">
-								</div> -->
+								 <div class="video-btn-play">
+								</div> 
+								 <div class="video-ico-service">
+								</div> 
 								<div class='video-con-animate page-video-1'>
 								</div>
 								<div class='video-img-thumbnail' style="background: url('/img/carousel4.jpg') no-repeat center; background-size: cover;">
-								<!-- <div class="video-img-overlay">
-								</div> -->
+								 <div class="video-img-overlay">
+								</div>
 								</div>
 							</div>
 						</div>
@@ -89,7 +92,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
-</div>
+</div> 	

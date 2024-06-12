@@ -1,5 +1,15 @@
 <footer>
 <div class="footer-con-container">
+	<style>
+		.footer-con-overlay {
+		position:relative;
+		z-index:1;
+		overflow:hidden;
+		width:100%;
+		height:auto;
+		background:linear-gradient(-135deg,rgba(0, 108, 248, 0.89) 25%,rgba(0, 68, 255, 0.8) 100%)
+	}
+	</style>
 	<div class="footer-con-overlay darkmode-header">
 		<div class="wavebar-con-container">
 			<div class="wavebar-con-wrap">
@@ -125,7 +135,7 @@
 					<div class='footer-con-seprator'>
 					</div>
 					<div class="footer-con-foot">
-						<div class="footer-con-side">
+						<!-- <div class="footer-con-side">
 							<div class="footer-tx1-founder">
 								<a href="https://github.com/dhrpcs3" target="_blank">
 								<div class="footer-ico-container">
@@ -141,11 +151,11 @@
 								</a>
 								<a href="/about#participants">
 								<div class="footer-tx1-developer pulsate">
-									<span>Founded by "these people"</span>
+									<span>""</span>
 								</div>
 								</a>
 							</div>
-						</div>
+						</div> -->
 						<div class="footer-con-side">
 							<div class="footer-tx1-webmaster">
 								<!-- <a href="https://github.com/anileo" target="_blank">
@@ -155,21 +165,21 @@
 								</div>
 								</a> -->
 								<a href="https://github.com/herrhulahoop" target="_blank">
-								<div class="footer-ico-container">
-									<div class="footer-ico-developer" style="background: url('/img/kanatTestFace.png') center / cover no-repeat;">
+								<!-- <div class="footer-ico-container">
+									 <div class="footer-ico-developer" style="background: url('') center / cover no-repeat;">
 									</div>
-								</div>
+								</div> -->
 								</a>
 								<a href="https://github.com/daginatsuko" target="_blank">
-								<div class="footer-ico-container">
-									<div class="footer-ico-developer" style="background: url('/img/danielTestFace.jpeg') center / cover no-repeat;">
-									</div>
-								</div>
+								<!-- <div class="footer-ico-container">
+									 <div class="footer-ico-developer" style="background: url('') center / cover no-repeat;">
+									</div> 
+								</div> -->
 								</a>
 								<a href="/about#participants">
-								<div class="footer-tx1-developer pulsate">
+								<!-- <div class="footer-tx1-developer pulsate">
 									<span style="color:white">Website by Kanat and Daniel © 2024</span>
-								</div>
+								</div> -->
 </a>
 							</div>
 						</div>

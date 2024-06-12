@@ -9,34 +9,20 @@
 				<span>ANT'S</span>
 			</div>
 			<div class='downloadable-tx2-desc darkmode-txt'>
-				<span>Время работы:
-					08:30 - 22:30
+				<span>08:30 - 22:30
 					Без выходных
 					<br>бул. Эркиндик, д. 35
 				</span>
 			</div>
-
-
-
-
-			<?php
-			if (isset($build) && !is_null($build->get_url_windows()))
-				printf("<a href=\"%s\" download>", $build->get_url_windows());
-			?>
+			<a href="https://www.instagram.com/ants.bishkek/">
 			<div class='package-con-button'>
 				<div class='package-ico-button' style="background: url(/img/instminilogo.png) center / 22px no-repeat;">
 				</div>
 				<div class='package-tx1-button'>
-					<span>
-					<?php
-					if (isset($build) && !is_null($build->get_url_windows()))
-						printf("Download");
-					else
-						printf("Instagram");
-					?>
-					</span>
+					<span>Instagram</span>
 				</div>
 			</div>
+			</a>
 			<style>
 .package-con-button {
     background: #833ab4;
@@ -78,27 +64,15 @@
 					<br>Анарбека Бакаева, 42
 				</span>
 			</div>
-
-
-
-			<?php
-			if (isset($build) && !is_null($build->get_url_linux()))
-				printf("<a href=\"%s\" download>", $build->get_url_linux());
-			?>
+			<a href="https://www.instagram.com/didar_chaihana/">
 			<div class='package-con-button'>
 				<div class='package-ico-button' style="background: url(/img/instminilogo.png) center / 22px no-repeat;">
 				</div>
 				<div class='package-tx1-button'>
-					<span>
-					<?php
-					if (isset($build) && !is_null($build->get_url_linux()))
-						printf("Download");
-					else
-						printf("Instagram");
-					?>
-					</span>
+					<span>Instagram</span>
 				</div>
 			</div>
+			</a>
 			<?php
 			if (isset($build) && !is_null($build->get_url_linux()))
 				printf("</a>");
@@ -112,30 +86,22 @@
 			<div class='downloadable-con-image darkmode-invert' style="background: url(/img/defaultCafeLogo.png) center left / 42px no-repeat;">
 			</div>
 			<div class='downloadable-tx1-title darkmode-txt'>
-				<span>macOS</span>
+				<span>Таберик</span>
 			</div>
 			<div class='downloadable-tx2-desc darkmode-txt'>
-				<span>Users can expect to run RPCS3 on Macs with Apple Silicon or Intel processors with dedicated graphics on macOS 12.6+, 13.0+, 14.3+ or later.</span>
+				<span>Ежедневно с 10:00 до 22:00
+				<br>Асаналиева, 99
+				</span>
 			</div>
-
-
-
-
-
+			<a href="https://www.instagram.com/restoran_taberik/">
 			<div class='package-con-button'>
 				<div class='package-ico-button' style="background: url(/img/instminilogo.png) center / 22px no-repeat;">
 				</div>
 				<div class='package-tx1-button'>
-					<span>
-					<?php
-					if (isset($build) && !is_null($build->get_url_mac()))
-						printf("Download");
-					else
-						printf("Insragram");
-					?>
-					</span>
+					<span>Instagram</span>
 				</div>
 			</div>
+			</a>
 			<?php
 			if (isset($build) && !is_null($build->get_url_mac()))
 				printf("</a>");
@@ -151,12 +117,13 @@
 			<div class='downloadable-con-image' style="background: url(/img/defaultCafeLogo.png) center left / 42px no-repeat;">
 			</div>
 			<div class='downloadable-tx1-title darkmode-txt'>
-				<span>FreeBSD</span>
+				<span>Family</span>
 			</div>
 			<div class='downloadable-tx2-desc darkmode-txt'>
-				<span>Users can expect to run RPCS3 at the best possible performance on a wide range of hardware setups on FreeBSD 12.3 or later.<br><br><br><br></span>
+				<span>Ежедневно с 10:00 до 23:00
+					<br>Садырбаева, 251</span>
 			</div>
-			<a href="https://cgit.freebsd.org/ports/log/emulators/rpcs3">
+			<a href="https://www.instagram.com/family_cafe_kg/">
 			<div class='package-con-button'>
 				<div class='package-ico-button' style="background: url(/img/instminilogo.png) center / 22px no-repeat;">
 				</div>
@@ -167,7 +134,31 @@
 			</a>
 		</div>
 	</div>
-	<div class='downloadable-con-outer' style="width: 66.6666666666%;">
+	<div class='downloadable-con-outer'>
+		<div class='downloadable-con-inner-a'>
+			<div class='downloadable-con-graphic' style="backgroun center top no-repeat; right: -52px; bottom: -38px;">
+			</div>
+			<div class='downloadable-con-image' style="background: url(/img/lesnoy.png) center left / 42px no-repeat;">
+			</div>
+			<div class='downloadable-tx1-title darkmode-txt'>
+				<span>Cafe-bar "Lesnoy"</span>
+			</div>
+			<div class='downloadable-tx2-desc darkmode-txt'>
+				<span>Ежедневно с 07:30 до 01:00
+					<br>​Улица Ибраимова, 70</span>
+			</div>
+			<a href="https://www.instagram.com/lesnoy.kg/">
+			<div class='package-con-button'>
+				<div class='package-ico-button' style="background: url(/img/instminilogo.png) center / 22px no-repeat;">
+				</div>
+				<div class='package-tx1-button'>
+					<span>Instagram</span>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+	<!-- <div class='downloadable-con-outer' style="width: 66.6666666666%;">
 		<div class='downloadable-con-inner-a'>
 			<div class='downloadable-con-graphic' style="background center top no-repeat; right: -52px; bottom: -38px;">
 			</div>
@@ -192,6 +183,6 @@
 					</div>
 				</div>
 			</a>
-		</div>
+		</div> -->
 	</div>
 </div>

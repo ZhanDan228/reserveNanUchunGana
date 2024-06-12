@@ -2,6 +2,7 @@
 <html lang="en-US">
 <head>
 <title>Сотрудничество</title>
+<link rel="shortcut icon" href="img\meta\favicon/mainlogosite.png" />
 <meta charset="utf-8">
 <meta name="description" content="RPCS3 is under steady development and the binaries we produce are highly experimental. Your system requirements may vary depending on your hardware configuration.">
 <meta name="keywords" content="rpcs3, playstation, playstation 3, ps3, emulator, debugger, windows, linux, macos, freebsd, open source, nekotekina, kd11, download">
@@ -42,7 +43,7 @@ if (@include_once("lib/compat/objects/Build.php"))
 			<div class='banner-con-divider'>
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
-				<p>
+				<p class="title">
 					 Ознакомьтесь с ресторанами, которые с нами сотрудничают.
 				</p>
 			</div>
@@ -113,7 +114,7 @@ if (@include_once("lib/compat/objects/Build.php"))
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p class="download-desc">
-							 For Linux users, RPCS3 is packaged using the AppImage format. To run, execute <span class="highlight darkmode-highlight">chmod a+x ./rpcs3-*_linux64.AppImage &amp;&amp; ./rpcs3-*_linux64.AppImage</span>
+							 For Linux users, RPCS3 is packaged using the AppImage format. To run, execute <span class="highlight darkmode-highlight">chmod a+x ./rpcs3-_linux64.AppImage &amp;&amp; ./rpcs3-_linux64.AppImage</span>
 							<br>
 							<b>Download AppImage using CLI </b><span class="highlight darkmode-highlight">wget --content-disposition https://rpcs3.net/latest-appimage</span> or <span class="highlight darkmode-highlight">curl -JLO https://rpcs3.net/latest-appimage</span>
 							<br>
@@ -233,6 +234,27 @@ if (@include_once("lib/compat/objects/Build.php"))
 			</div>
 		</div>
 	</div>
+	<style>
+
+		@media (max-width:485px){
+			.title{
+				font-size:70%;
+			}
+			h1{
+				font-size:70%;
+			}
+		}
+		@media (max-width:330px){
+			.title{
+				font-size:65%;
+			}
+		}
+		@media (max-width:301px){
+			.title{
+				font-size:60%;
+			}
+		}
+	</style>
 	<?php include 'lib/module/inc-footer.php';?>
 </div>
 </body>

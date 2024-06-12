@@ -88,6 +88,15 @@
 </div>
 <div class='menu-con-container'>
 	<div class="menu-con-backdrop darkmode-menu">
+		<style>
+			.menu-con-backdrop {
+			position:absolute;
+			display:none;
+			width:100%;
+			height:100%;
+			background:linear-gradient(-135deg,rgba(0, 108, 248, 0.89) 25%,rgba(0, 68, 255, 0.8) 100%)
+		}
+		</style>
 	</div>
 	<div class="menu-btn-settings12345 toggle-darkmode">
 		<div class='menu-btn-tx1-settings-tooltip pulsate'>
@@ -109,6 +118,11 @@
 	margin-left:-30%;
 	border-bottom:2px solid transparent;
 	transition:all .1s ease-in-out 0s
+}
+@media (max-width:800px){
+	.menu-btn-settings12345{
+		display:none;	
+	}
 }
 				</style>
 			</div>
@@ -164,12 +178,12 @@
 				<span>YouTube</span>
 			</div>
 			</a>
-			<div class="support-con-menu">
+			<!-- <div class="support-con-menu">
 				<a href="https://www.patreon.com/Nekotekina" target="_blank">
 				<div class="support-ico-menu">
 				</div>
 				</a>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>

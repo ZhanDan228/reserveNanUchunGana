@@ -7,7 +7,7 @@
 <meta name="description" content="RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD. The purpose of this project is to accurately emulate the PlayStation 3 in its entirety with the power of reverse engineering and community collaboration.">
 <meta name="keywords" content="rpcs3, playstation, playstation 3, ps3, emulator, debugger, windows, linux, macos, freebsd, open source, nekotekina, kd11, home">
 <meta name="google-site-verification" content="cO1o6sx54cvKxhbnYsABWtl4sYFj9uVKV0DxLKZkWv8"/>
-<?php include 'lib/module/sys-meta.php';?>
+<!-- <?php include 'lib/module/sys-meta.php';?> -->
 <meta property="og:title" content="RPCS3 - The PlayStation 3 Emulator" />
 <meta property="og:description" content="RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD made possible with the power of reverse engineering." />
 <meta property="og:image" content="https://rpcs3.net/img/meta/mobile/1200.png" />
@@ -29,7 +29,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6161192934701994" crossorigin="anonymous"></script>
 
 </head>
-на какой строке кода определен логотип на вкладке в браузере
+
 <body>
 
 <?php include 'lib/module/sys-php.php';?>
@@ -70,7 +70,7 @@
 <!-- ------------------------------------------------------------------------ -->
 
 						<div class='landing-tx1-heading pulsate'>
-							<h1 style='font-size: 170%'>Enaktus<br>
+							<h1 style='font-size: 170%'>Enactus KEU<br>
 							 Нан үчүн гана</h1>
 						</div>
 						<div class='landing-tx2-heading'>
@@ -168,6 +168,8 @@
 				max-height:938px;
 				background: linear-gradient(to bottom, #D232AE, #D532AD, #D434AC, #D735AB, #D836AB, #DA37A8, #DC3AA8, #E03CA7, #E43FA3, #E941A0, #EC4690, #EC4884, #EC4B8E, #EC4D95, #ED4D9D)
 			}
+
+			
 		</style>
 		<div class="discord-center-logo">
 			<img alt="Discord Logo" src="img/insta.png" style="width: 100%; height: 100%;">
@@ -617,7 +619,7 @@
 							</div>
 							<div class="patreon-tx2-mantra darkmode-txt">
 								<p>
-								Хотите помочь нам развиваться и создавать еще больше инновационных решений? Присоединяйтесь к нашим патронам на Patreon и получите эксклюзивный доступ к нашим проектам и обновлениям.
+								Хотите помочь нам развиваться и создавать еще больше инновационных проектов, способных менять мир? Поддержите нас финансово! 
 								</p>
 							</div>
 							<a href="https://www.patreon.com/Nekotekina" target="_blank">

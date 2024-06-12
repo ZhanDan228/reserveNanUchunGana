@@ -1,10 +1,11 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-<title>RPCS3 - About</title>
+<title>О проекте</title>
 <meta charset="utf-8">
 <meta name="description" content="Our goal is to preserve the legacy of the PlayStation 3 by completely and accurately emulating its vast library in its entirety with the power of open-source community and reverse engineering.">
 <meta name="keywords" content="rpcs3, playstation, playstation 3, ps3, emulator, debugger, windows, linux, macos, freebsd, open source, nekotekina, kd11, about">
+<link rel="shortcut icon" href="img\meta\favicon/mainlogosite.png" />
 <?php include 'lib/module/sys-meta.php';?>
 <meta property="og:title" content="RPCS3 - About"/>
 <meta property="og:description" content="Our goal is to preserve the legacy of the PlayStation 3 by completely and accurately emulating its vast library in its entirety with the power of open-source community and reverse engineering."/>
@@ -44,7 +45,7 @@
 			<div class='banner-con-divider'>
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
-				<p>
+				<p class="title">
 					 Узнайте больше о нашем проекте и с нашими участниками.
 				</p>
 			</div>
@@ -62,101 +63,25 @@
 								<h2>Проект</h2>
 							</div>
 							<div class='container-tx2-block darkmode-txt'>
-								<p>
-									 
-Наша команда, Encatus, занимается созданием проекта под названием "Нан үчүн гана". Мы стремимся использовать выброшенную пищу и превратить её в корм для животных. Наша цель состоит в том, чтобы превратить процесс выброса еды в полезное действие. Мы считаем, что многие виды пищи, которые обычно выбрасываются, всё ещё могут быть использованы, чтобы обеспечить пищей животных и тем самым сделать что-то полезное для общества. <br>
-									<br>
-									Мы стремимся к тому, чтобы эта инициатива помогла не только сократить количество продуктов питания, выбрасываемых в мусор, но и обеспечить нуждающихся животных качественным кормом. Мы верим, что наш подход поможет уменьшить негативное воздействие на окружающую среду, связанное с выбросом пищевых продуктов, и сделает мир немного лучше для нас всех.
-							</div>
+								<p>Наш проект, названный “Нан учун Гана”, является важной инициативой, которую предприняла команда Enactus KEU. Эта инициатива направлена на сбор и переработку хлебных отходов с целью производства корма для скота. Это не только помогает уменьшить количество отходов, но и способствует созданию устойчивого источника питания для животных.
+
+В рамках этого проекта было установлено более 400 бочек в городах Бишкек и Кант. Эти бочки служат местами для сбора хлебных отходов от местных жителей. Это позволяет каждому жителю внести свой вклад в улучшение окружающей среды и устойчивое развитие своего города.
+
+Собранные хлебные отходы затем подвергаются процессу переработки с использованием современного оборудования и технологий. Этот процесс был тщательно разработан и оптимизирован для превращения хлебных отходов в высококачественный корм для животных. Это не только улучшает качество корма, но и значительно сокращает количество отходов, которые обычно окажутся на свалке.
+</p>
+
+								</div>
 						</div>
 					</div>
 				</div>
-				<div class='splitter-img-container splitter-con-right'>
-					<div class='splitter-img-wrapper' style="background: url('/img/aboutPageTheProject.jpg') no-repeat center; background-size: cover;">
+				<div class='splitter-img-container splitter-con-right conus'>
+					<div class='splitter-img-wrapper' style="background: url('/img/projectAboutPage.jpg') no-repeat center; background-size: cover;">
 					</div>
 				</div>
 			</div>
 			<div class='splitter-con-container'>
-				<div class='splitter-img-container splitter-con-left'>
-					<div class='splitter-img-wrapper' style="background: url('http://www.gaidarov		ka.ru/images/glavnaya/kollegam/metod_material/2021/04/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%9C%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9E%D0%B1%D1%89%D0%B8%D0%B9_%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A6%D0%A3%D0%A0_Twitter_%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.png') no-repeat center; background-size: cover;">
-					</div>
-				</div>
-				<div class='splitter-txt-wrapper'>
-					<div class='container-con-block darkmode-block'>
-						<div class='container-con-wrapper'>
-							<div class='container-tx1-block darkmode-txt'>
-								<div class='container-emp-block'>
-								</div>
-								<h2>17 целей устойчивого развития</h2>
-							</div>
-							<div class='container-tx2-block darkmode-txt'>
-							<p>
-    В 2015 году ООН приняла Цели устойчивого развития (ЦУР) как универсальный призыв к действиям для ликвидации бедности, защиты планеты и обеспечения благополучия для всех. Эти цели охватывают широкий спектр вопросов, включая социальные, экономические и экологические проблемы, и призваны создать более устойчивое и справедливое будущее для всех.
-</p>
-<div style="display: flex;">
-    <div style="flex: 1; margin-right: 20px;">
-        <p>1. <b>Ликвидация нищеты</b></p>
-        <p>2. <b>Ликвидация голода</b></p>
-        <p>3. <b>Здоровье и благополучие</b></p>
-        <p>4. <b>Качественное образование</b></p>
-        <p>5. <b>Гендерное равенство</b></p>
-        <p>6. <b>Чистая вода и санитария</b></p>
-        <p>7. <b>Доступная и чистая энергия</b></p>
-        <p>8. <b>Достойная работа и экономический рост</b></p>
-        <p>9. <b>Индустриализация, инновации и инфраструктура</b></p>
-    </div>
-    <div style="flex: 1;">
-        <p>10. <b>Сокращение неравенства</b></p>
-        <p>11. <b>Устойчивые города и населенные пункты</b></p>
-        <p>12. <b>Ответственное потребление и производство</b></p>
-        <p>13. <b>Борьба с изменением климата</b></p>
-        <p>14. <b>Сохранение морских экосистем</b></p>
-        <p>15. <b>Сохранение экосистем суши</b></p>
-        <p>16. <b>Мир, правосудие и эффективные институты</b></p>
-        <p>17. <b>Партнерство для устойчивого развития</b></p>
-    </div>
-</div>
-
-
-
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class='splitter-con-container'>
-				<div class='splitter-txt-wrapper'>
-					<div class='container-con-block darkmode-block'>
-						<div class='container-con-wrapper'>
-							<div class='container-tx1-block darkmode-txt'>
-								<div class='container-emp-block'>
-								</div>
-								<h2>Какие проблемы решает наш проект?</h2>
-							</div>
-							<div class='container-tx2-block darkmode-txt'>
-							<p>
-    Наш проект использует пищевые отходы для производства корма и решает следующие проблемы устойчивого развития:
-</p>
-<ul>
-    <li><b>Ликвидация нищеты</b>: Снижение издержек на корм для скота.</li>
-    <li><b>Ликвидация голода</b>: Увеличение доступности качественного корма.</li>
-    <li><b>Хорошее здоровье и благополучие</b>: Повышение здоровья животных.</li>
-    <li><b>Ответственное потребление и производство</b>: Сокращение отходов и замкнутый цикл использования ресурсов.</li>
-    <li><b>Сохранение экосистем суши</b>: Снижение потребления земельных и водных ресурсов.</li>
-</ul>
-</div>
-						</div>
-					</div>
-				</div>
-				<div class='splitter-img-container splitter-con-right'>
-					<div class='splitter-img-wrapper' style="background: url('/img/Цели фото.png') no-repeat center; background-size: cover;">
-					</div>
-				</div>
-			</div>
-			
-				<div class='splitter-con-container'>
-					<div class='splitter-img-container splitter-con-left'>
-						<div class='splitter-img-wrapper' style="background: url('/img/Корм фото.jpg') no-repeat center; background-size: cover;">
+					<div class='splitter-img-container splitter-con-left seeee'>
+						<div class='splitter-img-wrapper' style="background: url('/img/fodderAboutPage.jpg') no-repeat center; background-size: cover;">
 						</div>
 					</div>
 					<div class='splitter-txt-wrapper'>
@@ -165,15 +90,57 @@
 								<div class='container-tx1-block darkmode-txt'>
 									<div class='container-emp-block'>
 									</div>
-									<h2>Про наш корм</h2>
+									<h2>Корм и его воздействие на окружение</h2>
 								</div>
-								<div class='container-tx2-block darkmode-txt'>
-								<p>Наш проект представляет инновационный подход к производству корма для животных, основанный на эффективном использовании пищевых отходов. Мы начинаем с тщательного отбора различных остатков пищи, таких как обрезки овощей и фруктов, остатки зерновых и мяса, которые затем проходят через технологический процесс переработки.</p>
-<p>С помощью передовых методов и оборудования мы обогащаем полученный материал необходимыми витаминами, минералами и другими питательными веществами, чтобы создать корм, который обеспечивает полноценное питание и поддерживает здоровье различных видов животных. Одно из ключевых преимуществ нашего подхода заключается в его экологической устойчивости. Мы активно сокращаем объемы пищевых отходов, отправляемых на свалку, и вместо этого предлагаем им вторую жизнь в виде полезного корма.</p>	</div>
+
+<div class='container-tx2-block darkmode-txt'>
+<p>Наш переработанный корм для скота играет ключевую роль в экономии средств фермеров на кормление, что приводит к значительной экономии в их бюджетах. Помимо этого, его доступная цена - 30 сом за килограмм, с уменьшением стоимости до 25 сом за килограмм при покупке 100 килограмм и до 20 сом за килограмм при покупке 1000 килограмм - делает его еще более привлекательным для использования. Благодаря содержанию высококачественных питательных веществ, наш корм способствует не только улучшению здоровья, но и повышению производительности скота, что в конечном итоге обеспечивает более успешное и прибыльное сельское хозяйство. Кроме того, наш процесс переработки позволяет более эффективно использовать ограниченные ресурсы, так как он уменьшает потребление земельных и водных ресурсов, сокращает пищевые отходы и создает замкнутый цикл использования ресурсов. Таким образом, наша инициатива имеет не только экономическое, но и экологическое значение, помогая сохранить баланс в экосистеме суши и обеспечить устойчивое развитие сельского хозяйства.	</p>
+</div>
+
 							</div>
 						</div>
 					</div>
+					<div class='splitter-img-container-spec splitter-con-left'>
+						<div class='splitter-img-wrapper' style="background: url('/img/fodderAboutPage.jpg') no-repeat center; background-size: cover;">
+						</div>
+					</div>
+					<style>
+
+						</style>
 				</div>
+			<div class='splitter-con-container'>
+				<div class='splitter-txt-wrapper'>
+					<div class='container-con-block darkmode-block'>
+						<div class='container-con-wrapper'>
+							<div class='container-tx1-block darkmode-txt'>
+								<div class='container-emp-block'>
+								</div>
+								<h2>Какие проблемы ЦУР решает наш проект?</h2>
+							</div>
+
+
+							<div class='container-tx2-block darkmode-txt'>
+    <p>Наш проект перерабатывает выброшенный хлеб в корм для животных, решая несколько важных проблем:</p>
+    <ul>
+        <li><strong>Нищета:</strong> Сокращаем расходы фермеров на кормление скота, улучшаем их финансовое положение.</li>
+        <li><strong>Голод:</strong> Повышаем доступность качественного корма для скота, особенно для фермеров с ограниченными ресурсами.</li>
+        <li><strong>Здоровье и благополучие:</strong> Улучшаем здоровье и производительность скота, обеспечивая необходимые питательные вещества.</li>
+        <li><strong>Ответственное потребление и производство:</strong> Сокращаем количество пищевых отходов, создаем замкнутый цикл использования ресурсов.</li>
+        <li><strong>Сохранение экосистем суши:</strong> Уменьшаем потребление земельных и водных ресурсов, используя пищевые отходы вместо выращивания кормовых культур.</li>
+    </ul>
+</div>
+
+
+						</div>
+					</div>
+				</div>
+				<div class='splitter-img-container splitter-con-right conus asdf'>
+					<div class='splitter-img-wrapper'>
+					</div>
+				</div>
+			</div>
+			
+
 			
 			<!-- <div class='splitter-con-container'>
 				<div class='splitter-txt-wrapper'>
@@ -254,6 +221,44 @@
 			<?php include 'lib/module/about/inc-about-former.php';?>
 		</div>
 	</div>
+	<style>
+		@media (max-width:800px){
+			.conus{
+				display:block;
+			}
+			
+		}
+		@media (min-width:800px){
+			.splitter-img-container-spec{
+				display:none;
+			}
+		}
+		.splitter-img-container{
+			background: url('/img/problems.png') no-repeat center;
+			background-size: cover; 
+		}
+		@media (max-width:800px){
+			.splitter-img-container{
+			background: url('/img/problemsMobileAdaptation.png') no-repeat center;
+			background-size: cover; 
+		}
+		}
+		@media (max-width:485px){
+			.title{
+				font-size:70%;
+			}
+		}
+		@media (max-width:330px){
+			.title{
+				font-size:65%;
+			}
+		}
+		@media (max-width:301px){
+			.title{
+				font-size:60%;
+			}
+		}
+	</style>
 </div>
 </div>
 <?php include 'lib/module/inc-footer.php';?>
